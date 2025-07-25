@@ -26,6 +26,8 @@ Projeto react native com utilização do expo como ferramenta. O Notes é um apl
       <img src="https://github.com/user-attachments/assets/a2c4566e-319c-4eb8-b702-aea667289c17" width= "300"/>
       <img src="https://github.com/user-attachments/assets/3ab21817-c540-45e7-b7b1-23cc0aa6414d" width= "300"/>
       <img src="https://github.com/user-attachments/assets/328c06b4-d5bc-4e3d-b02f-518603d8210d" width= "300"/>
-
 </div>
+
+## ExpoDev
+https://expo.dev/accounts/mathp127202/projects/notes
 
