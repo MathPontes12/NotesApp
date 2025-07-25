@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Dever-de-casa",
-    "slug": "Dever-de-casa",
+    "name": "notes",
+    "slug": "notes",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "deverdecasa",
+    "scheme": "notes",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.mathp127202.notes"
     },
     "web": {
       "bundler": "metro",
@@ -33,10 +34,20 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-font"
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4ce68f0d-3de6-40f6-ab5f-7e50c81e4ba7"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/4ce68f0d-3de6-40f6-ab5f-7e50c81e4ba7"
     }
   }
 }
