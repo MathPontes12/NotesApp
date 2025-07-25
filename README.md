@@ -1,50 +1,31 @@
-# Welcome to your Expo app 👋
+# Notes
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<br>
 
-## Get started
+## Ferramentas e Tecnologias
+<div >
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width= 100 height= 100/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original-wordmark.svg" width= 100 height= 100/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width= 100 height= 100/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
-1. Install dependencies
+<br>
 
-   ```bash
-   npm install
-   ```
+## Sobre
+Projeto react native com utilização do expo como ferramenta. O Notes é um aplicativo de bloco de notas, podendo adicionar, editar, deletar e favoritar cada nota criada com título e corpo do texto.
+<br>
+<br>
+<br>
 
-2. Start the app
+<div align = "center">
+      <h2 align="center"> Notes </h2>
+      Página inicial
+      <br>
+      <br>
+      <br>
+      <img src="https://github.com/user-attachments/assets/a2c4566e-319c-4eb8-b702-aea667289c17" width= "300"/>
+      <img src="https://github.com/user-attachments/assets/3ab21817-c540-45e7-b7b1-23cc0aa6414d" width= "300"/>
+      <img src="https://github.com/user-attachments/assets/328c06b4-d5bc-4e3d-b02f-518603d8210d" width= "300"/>
 
-   ```bash
-   npx expo start
-   ```
+</div>
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
